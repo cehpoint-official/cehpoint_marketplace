@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "935150710859",
+    "project_id": "cehpointmarketplace-805b3",
+    "storage_bucket": "cehpointmarketplace-805b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935150710859:android:c2958db19c3b8f6fa51dce",
+        "android_client_info": {
+          "package_name": "in.riggroup.cehpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935150710859-j7i9n9op57lptn98sioqirrbm2ug00b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.riggroup.cehpoint",
+            "certificate_hash": "ce472c37c158b32e235e4eb0b0d2607b2ceb2e62"
+          }
+        },
+        {
+          "client_id": "935150710859-6a32icsl99vgoi7b0nemotmbu5adtf21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Io9CKRwVPZO3B8V8AeXyPKZCxpgHN20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935150710859-6a32icsl99vgoi7b0nemotmbu5adtf21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935150710859-5peb63f9viv7nl9t9ut69ftlmkj3c9l7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.rig-group.mSoko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
